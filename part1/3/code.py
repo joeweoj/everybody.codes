@@ -10,11 +10,6 @@ index = {
     'D': 5,
     'x': 0
 }
-additionalFactor = {
-    0: 2,
-    1: 1,
-    2: 0
-}
 
 def get_positions_per_creature(key):
     if key == 'x':
